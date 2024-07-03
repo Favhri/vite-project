@@ -122,7 +122,7 @@ export default function Nav() {
                             <div className="">
                                 <Avatar
                                     key={1}
-                                    src={'/public/gambar/2022610012.jpeg'}
+                                    src={'https://firebasestorage.googleapis.com/v0/b/myblog-78884.appspot.com/o/blogimage%2F2022610012.jpeg?alt=media&token=67539fa2-6d8a-45b4-a9a3-385f85462c11'}
                                     alt="avatar"
                                     withBorder={true}
                                     className="p-0.5 text-red-500 w-10 h-10"

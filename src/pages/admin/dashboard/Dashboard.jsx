@@ -21,7 +21,7 @@ function Dashboard() {
                     <div className="left">
                         <img
                             className="w-40 h-40 object-cover rounded-full border-2 border-pink-600 p-1"
-                            src={'/public/gambar/2022610012.jpeg'}
+                            src={'https://firebasestorage.googleapis.com/v0/b/myblog-78884.appspot.com/o/blogimage%2F2022610012.jpeg?alt=media&token=67539fa2-6d8a-45b4-a9a3-385f85462c11'}
                             alt="profile"
                         />
                     </div>
