@@ -47,6 +47,17 @@ export default function Nav() {
                     Blogs
                 </Link>
             </Typography>
+            <Typography
+                as="li"
+                variant="small"
+                color="blue-gray"
+                className="p-1 font-normal"
+                style={{ color: mode === 'dark' ? 'white' : 'white' }}
+            >
+                <Link to={'/new'} className="flex items-center">
+                    Ajax
+                </Link>
+            </Typography>
             {!admin
                 ?
                 <Typography

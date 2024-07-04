@@ -4,6 +4,7 @@ import HeroSection from '../../components/heroSection/HeroSection'
 import BlogPostCard from '../../components/blogPostCard/BlogPostCard'
 // import Loader from '../../components/loader/Loader'
 
+
 function Home() {
 
   return (
